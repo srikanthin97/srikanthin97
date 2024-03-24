@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SRIKANTH KONDAPALLI</h1>
 <h3 align="center">A passionate DATA ENGINEER</h3>
 
-- 🔭 I’m currently working on **Currently working on some of my cool side projects**
+- 🔭 I’m currently working **on some of my cool side projects**
 
 - 🌱 I’m currently learning **Python, ADS, Spark**
 
