@@ -1,22 +1,94 @@
-<h1 align="center">Hi 👋, I'm SRIKANTH KONDAPALLI</h1>
-<h3 align="center">A passionate DATA ENGINEER</h3>
+<h1 align="center">Hi 👋, I'm SRIKANTH </h1>
+<h3 align="center">🚀 A Passionate and Certified Data Engineer | Cloud & Big Data Specialist</h3>
 
-- 🔭 I’m currently working **on some of my cool side projects**
-
-- 🌱 I’m currently learning **Python, ADS, Spark**
-
-- 👯 I’m looking to collaborate on **Open source Data Engineer projects**
-
-- 💬 Ask me about **SQL, Snowflake, AWS**
-
-- 📫 How to reach me **srikanthk00k@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/srikanthsk001/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/srikanthsk001" height="30" width="40" /></a>
-<a href="https://instagram.com/srikanthin97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srikanthin97" height="30" width="40" /></a>
+<p align="center">
+  <a href="mailto:srikanthk00k@gmail.com">📫 Email</a> • 
+  <a href="https://www.linkedin.com/in/srikanthsk001/" target="_blank">LinkedIn</a> • 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> </p>
+---
+
+## 🧑‍💻 About Me
+
+🎯 Experienced Data Engineer with 5+ years of building and optimizing scalable, cloud-native data pipelines on **AWS** and **Azure** platforms.  
+💡 Skilled in real-time streaming (Kafka, Kinesis), ETL workflows (Glue, Spark, Lambda), and data warehousing (Snowflake, Redshift).  
+🔍 Passionate about translating business problems into technical solutions that drive **data-driven decision-making**.  
+🏆 Awarded "Best Employee" at Amazon and known for delivering high-impact, high-performance systems.  
+📍 Based in Edwardsville, IL | Open to collaborations and remote opportunities.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Cloud Platforms
+- **AWS**: Lambda, S3, Glue, EMR, Kinesis, Redshift, CloudWatch, IAM
+- **Azure**: Data Factory, Data Lake, Synapse
+
+### 🔧 Data & Processing
+- **Languages**: Python, SQL, Scala, R  
+- **Big Data**: Apache Spark, PySpark, Hadoop, Kafka  
+- **ETL Tools**: Apache Airflow, Informatica, Talend, SSIS  
+- **Databases**: Snowflake, Redshift, PostgreSQL, MySQL, MongoDB, Oracle  
+
+### 📊 Visualization
+- Power BI, Tableau, Amazon QuickSight
+
+### 🧰 DevOps & Utilities
+- Git, Jenkins, Terraform, Docker, CI/CD
+
+---
+
+## 📈 What I'm Working On
+
+- 🔭 Building end-to-end pipelines using Snowflake and AWS for streaming healthcare data
+- 🤖 Experimenting with AI-powered data enrichment and feature engineering
+- 📚 Currently deep-diving into **PySpark**, **Machine Learning**, and **Advanced Data Architecture**
+
+---
+
+## 📫 Let's Connect
+
+I'm always open to connecting with fellow data enthusiasts, collaborators, or recruiters. Feel free to reach out:
+
+- 📧 **Email**: srikanthk00k@gmail.com
+- 💼 **LinkedIn**: [linkedin.com/in/srikanthsk001](https://www.linkedin.com/in/srikanthsk001/)
+---
+
+## 🏆 Certifications
+
+- ✅ AWS Certified: Data Engineer Associate  
+- ✅ Microsoft Certified: Azure Data Engineer Associate  
+- ✅ Databricks Lakehouse  
+- ✅ Google Encoder Decoder
+
+---
+
+## 📚 Education
+
+- 🎓 MS in Industrial Data Engineering – *Southern Illinois University, Edwardsville*  
+- 🎓 BTech in Mechanical Engineering – *TKR College of Engineering, India*
+
+---
+
+## ⚙️ GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srikanthsk001&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+---
+
+## 🧩 Featured Project
+
+### 🎧 Spotify Data Pipeline using Python, AWS, and Snowflake
+
+A real-time data pipeline built with:
+- **Spotify API** → **AWS Lambda** → **S3** → **Snowflake via Snowpipe**
+- Designed for automation using **CloudWatch triggers**
+- Scalable, serverless architecture ideal for real-time analytics
+
+📌 **Architecture Diagram**  
+![Spotify Data Pipeline Architecture](https://chat.openai.com/share/8722bc3e-fc5b-4f4e-ae53-1b2cd8939d15)
+
+---
 
