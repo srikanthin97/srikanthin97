@@ -70,14 +70,6 @@ I'm always open to connecting with fellow data enthusiasts, collaborators, or re
 
 ---
 
-## ⚙️ GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikanthsk001&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
-
 ## 🧩 Featured Project
 
 ### 🎧 Spotify Data Pipeline using Python, AWS, and Snowflake
