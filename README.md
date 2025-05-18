@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 About Me
 
-🎯 Experienced Data Engineer with 5+ years of building and optimizing scalable, cloud-native data pipelines on **AWS** and **Azure** platforms.  
+🎯 Experienced Data Engineer with 5 years of building and optimizing scalable, cloud-native data pipelines on **AWS** and **Azure** platforms.  
 💡 Skilled in real-time streaming (Kafka, Kinesis), ETL workflows (Glue, Spark, Lambda), and data warehousing (Snowflake, Redshift).  
 🔍 Passionate about translating business problems into technical solutions that drive **data-driven decision-making**.  
 🏆 Awarded "Best Employee" at Amazon and known for delivering high-impact, high-performance systems.  
