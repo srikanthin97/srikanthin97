@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm SRIKANTH </h1>
+![Hacking GIF](assets/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif)
+
 <h3 align="center">🚀 A Passionate and Certified Data Engineer | Cloud & Big Data Specialist</h3>
 
 <p align="center">
