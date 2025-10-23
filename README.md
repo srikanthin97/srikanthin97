@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/srikanthkpk/" target="_blank">Srikanth K</a> 👋</h1>
+ <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/srikanthkpk/" target="_blank">Srikanth K</a> 👋</h1>
 <h3 align="center">🚀 Certified Data Engineer | Cloud & Big Data Architect | AI Enthusiast</h3>
 
 <p align="center">
@@ -82,19 +82,14 @@
 
 ## 📈 GitHub Stats
 
-## 📈 GitHub Stats
-
- ## 📈 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srikanthkpk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Srikanth's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanthkpk&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srikanthin97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Srikanth's GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srikanthin97&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=srikanthkpk&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=srikanthin97&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
 </p>
-
 
 ---
 
@@ -106,7 +101,7 @@ A fully automated **real-time data pipeline** built with:
 ⚙️ **Orchestrated using CloudWatch + Serverless Triggers**  
 📊 Designed for **scalable, event-driven analytics** on streaming music data  
 
-**Architecture Overview:**
+**Architecture Overview:**  
 ![Spotify Data Pipeline](https://github.com/srikanthkpk/assets/spotify-pipeline-arch-diagram.png)
 
 🔗 [View Repository →](https://github.com/srikanthkpk/spotify-data-pipeline)
@@ -127,5 +122,5 @@ A fully automated **real-time data pipeline** built with:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=srikanthkpk&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=srikanthin97&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
