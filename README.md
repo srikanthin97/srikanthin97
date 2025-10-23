@@ -51,7 +51,7 @@
 I'm always open to connecting with fellow data enthusiasts, collaborators, or recruiters. Feel free to reach out:
 
 - 📧 **Email**: srikanthk00k@gmail.com
-- 💼 **LinkedIn**: [linkedin.com/in/srikanthsk001](https://www.linkedin.com/in/srikanthsk001/)
+- 💼 **LinkedIn**: [https://www.linkedin.com/in/srikanthkpk/)
 ---
 
 ## 🏆 Certifications
