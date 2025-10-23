@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Certified Data Engineer | Cloud & Big Data Architect | AI Enthusiast</h3>
 
 <p align="center">
-  <a href="mailto:srikanthk00k@gmail.com"><img src="https://img.shields.io/badge/Email-srikanthk00k%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:srikanth.ln63@gmail.com"><img src="https://img.shields.io/badge/Email-srikanthk00k%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/srikanthkpk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
 </p>
