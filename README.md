@@ -111,7 +111,6 @@ A fully automated **real-time data pipeline** built with:
 
 <p align="center">
   <a href="mailto:srikanthk00k@gmail.com"><img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/srikanthkpk/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
 
 <p align="center"> 
