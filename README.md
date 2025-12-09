@@ -22,7 +22,7 @@
 🚀 Experienced in designing **end-to-end ETL pipelines**, **real-time data lakes**, and **machine learning data workflows**.  
 🏆 Recognized for delivering **high-performance, scalable, and automated** data systems.  
 📍 Based in **Edwardsville, IL** | Open to **collaborations & global remote opportunities**.
-**Snowflake Data Engineer**
+   **Snowflake Data Engineer**
 
 ---
 
