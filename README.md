@@ -80,19 +80,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=srikanthin97&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Srikanth's GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=srikanthin97&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=srikanthin97&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
-</p>
-
----
-
 ## 🎧 Featured Project: Spotify Data Pipeline
 
 A fully automated **real-time data pipeline** built with:
