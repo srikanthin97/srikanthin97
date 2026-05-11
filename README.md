@@ -17,11 +17,12 @@
 
 ## 🧑‍💻 About Me
 
-🎯 Certified **Data Engineer** with hands-on expertise in **AWS, Azure, and Databricks ecosystems**.  
-💡 Passionate about **AI-driven data platforms**, **streaming analytics**, and **cloud-native architectures**.  
-🚀 Experienced in designing **end-to-end ETL pipelines**, **real-time data lakes**, and **machine learning data workflows**.  
-🏆 Recognized for delivering **high-performance, scalable, and automated** data systems.  
-📍 Based in **Edwardsville, IL** | Open to **collaborations & global remote opportunities**.
+I'm a backend-focused developer specializing in machine learning and applied AI. I build robust APIs, data pipelines, and intelligent models that uncover meaningful patterns and trends. I’m a strong believer in clean architecture, reproducible experiments, and writing maintainable code that teammates actually enjoy working with.
+Certified Data Engineer with extensive hands-on experience across the AWS, Azure, and Databricks ecosystems.
+💡 Passionate about building AI-powered data platforms, real-time streaming analytics, and scalable cloud-native architectures.
+🚀 Proven expertise in designing end-to-end ETL pipelines, real-time data lakes, and production-ready machine learning data workflows.
+🏆 Recognized for delivering high-performance, automated, and scalable data systems that drive business impact.
+📍 Based in Edwardsville, IL | Open to collaborations and fully remote opportunities worldwide.
    **Snowflake Data Engineer**
 
 ---
