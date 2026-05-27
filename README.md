@@ -1,5 +1,5 @@
  <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/srikanthkpk/" target="_blank">Srikanth K</a> 👋</h1>
-<h3 align="center">🚀 Certified Data Engineer | Cloud & Big Data Architect | AI Enthusiast</h3>
+<h3 align="center">🚀 Certified Data Engineer | AI/ML Engineer | AI Enthusiast</h3>
 
 <p align="center">
   <a href="mailto:srikanth.ln63@gmail.com"><img src="https://img.shields.io/badge/Email-srikanth.ln63%40gmail.com-red?style=for-the-badge&logo=gmail"></a>
